@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+body{
+    background-color: #FAFAF9;
+    margin: 72px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Sora', sans-serif;
+}
+.heading{
+    color: #18181B;
+    font-size: 2.25rem;
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+.description{
+    color: #52525A;
+    font-size: 1.25rem;
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+.star{
+    width: 18px;
+    height: auto;
+    margin-top: 9px;
+    margin-bottom: 9px;
+    padding: 10px;
+    border: none;
+    border-radius: 28px;
+    background-color: #F5C044;
+}
+li{
+    text-align: start;
+    color: #52525A;
+    font-size: 14px;
+}
+.comment1{
+    background-color: #FFFFFF;
+    width: 284px;
+    padding: 36px;
+    border-radius: 18px;
+    display: flex;
+    flex-direction: column;
+    float: inline-end;
+}
+.comment2{
+    background-color: #FFFFFF;
+    margin: 36px;
+    width: 284px;
+    padding: 30px;
+    border-radius: 18px;
+    display: flex;
+    flex-direction: column;
+    float: inline-start;
+}
+.logo{
+    height: 24px;
+    width: auto;
+    margin: 0px;
+}
+
+.name{
+    color: #18181B;
+    font-size: 1rem;
+    margin: 0px;
+    margin-top: 4.5px;
+    margin-bottom: 4.5px;
+}
+.review{
+    color: #52525A;
+    font-size: 1rem;
+    margin: 0px;
+    margin-top: 4.5px;
+    margin-bottom: 4.5px;
+}

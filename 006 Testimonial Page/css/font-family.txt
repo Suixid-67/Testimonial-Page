@@ -1,0 +1,23 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+</style>
+
+font-family: 'Sora', sans-serif;
+
+heading
+36px | 2.25rem
+
+Body
+20px | 1.25rem
+
+Body 2
+16px | 1rem
+
+List Item
+14px | 0.875rem
+
+containers
+550px
+
+Coments
+356
